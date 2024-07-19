@@ -1,7 +1,7 @@
 ```dif
 + 👋️👋️ Hello there
 ```
-I'm an DevOps engineer 🔓️ -- but also I work on:
+I'm a DevOps engineer 🔓️ -- but also I work on:
 
 automations 🏗️, build pipelines with python 🖥️ and QA Testing 🛠️
 
