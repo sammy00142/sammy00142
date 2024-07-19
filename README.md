@@ -1,16 +1,16 @@
-## Hi there 👋
+```dif
++ 👋️👋️ Hello there
+```
+I'm an DevOps engineer 🔓️ -- but also I work on:
 
-<!--
-**sammy00142/sammy00142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+automations 🏗️, build pipelines with python 🖥️ and QA Testing 🛠️
 
-Here are some ideas to get you started:
+### Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon)
+![OpenTofu](https://img.shields.io/badge/-OpenTofu-000?&logo=OpenTofu)
+![CDK](https://img.shields.io/badge/-CDK-000?&logo=CDK)
